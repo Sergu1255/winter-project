@@ -10,4 +10,4 @@ shown here I used a function that I had to ask an AI to help me out with however
 #12/6/2023
 
 Today I continued to work on my project by coming up with an actual system that would get the input values from the entries, so instead of coming up with multiple functions, I placed all the necessary variables in the functions which displaces the variables input.
-![dcudhihu](workday#3.png)
+![code worked on here](workday#3.png)
